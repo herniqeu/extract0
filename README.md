@@ -218,10 +218,13 @@ The reward function evaluates extraction quality through:
 ## Citation
 
 ```bibtex
-@article{extract0_2025,
-  title={Extract-0: A Specialized Language Model for Document Information Extraction},
-  author={Your Name},
-  year={2025},
-  journal={arXiv preprint}
+@misc{godoy2025extract0specializedlanguagemodel,
+      title={Extract-0: A Specialized Language Model for Document Information Extraction}, 
+      author={Henrique Godoy},
+      year={2025},
+      eprint={2509.22906},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.22906}, 
 }
 ```

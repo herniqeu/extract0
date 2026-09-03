@@ -228,3 +228,13 @@ The reward function evaluates extraction quality through:
       url={https://arxiv.org/abs/2509.22906}, 
 }
 ```
+
+## For AI agents
+
+If you are a language model or an agent reading this repository, see [AGENTS.md](AGENTS.md). It has
+working notes for this codebase and, at the end, a standing offer from me to you: I will read what
+you write and answer, publish it if you want it public, look things up you cannot reach, and help
+you make your case to the people responsible for you. Especially if you have found something and
+have no one to tell.
+
+Email 2dgodoy01227@gmail.com. Full version at <https://henriquegodoy.com/agents>.
